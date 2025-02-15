@@ -1,6 +1,6 @@
 # UNP_PROJECT_BI_WITH_POWER_BI_COMPANY_FINANCIALS_DATA
-I worked with UNP Education on this project to analyze a company's financial dataset using Power BI. The focus areas include sales trends, profit margins, discount effects, and segment performance. I handled data cleaning, transformation, and visualization to build interactive dashboards with key insights. The dashboards feature KPI indicators, bar charts, line graphs, and pie charts to track financial performance. The analysis highlights top-selling products, profitable segments, and the impact of discounts on margins. This repository includes Power BI reports (.pbix), dataset files, and project documentation.
+I collaborated with UNP Education to analyze a company's financial data using Power BI. The project focuses on sales performance, profit margins, discount impact, and segment analysis. I performed data cleaning, transformation, and visualization to develop interactive dashboards with key insights. The visuals include KPI indicators, bar charts, line graphs, and pie charts for financial tracking. The analysis identifies top-selling products, high-profit segments, and discount trends. This repository contains Power BI reports (.pbix), dataset files, and documentation explaining the process.
 
-PDF FILE: 
+PDF FILE: https://drive.google.com/file/d/1-GJeYLBm5nYig7T8gcEQ9AzqkZsd-HgS/view?usp=drivesdk 
 
 PBIX FILE:
