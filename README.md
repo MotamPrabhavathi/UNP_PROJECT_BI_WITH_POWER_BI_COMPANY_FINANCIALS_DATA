@@ -3,4 +3,4 @@ I collaborated with UNP Education to analyze a company's financial data using Po
 
 PDF FILE: https://drive.google.com/file/d/1-GJeYLBm5nYig7T8gcEQ9AzqkZsd-HgS/view?usp=drivesdk 
 
-PBIX FILE:
+PBIX FILE: https://drive.google.com/file/d/1-PMZ7-ZfieBLlKx8R_XSHV2-m-ZSS_VZ/view?usp=drivesdk 
